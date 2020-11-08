@@ -6,7 +6,7 @@ HOME
    :caption: Boards:
 
    D1 <d1/index>
-   D1 mini Shileds <d1_mini_shiled/index>
+leds <d1_mini_shiled/index>
    D32 <d32/index>
    W600 <w600/index>
 
